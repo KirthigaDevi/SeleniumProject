@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="9" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-29T16:27:31 IST" name="Test Suite" finished-at="2022-06-29T16:28:21 IST" duration-ms="50154">
+    <groups>
+    </groups>
+    <test started-at="2022-06-29T16:27:31 IST" name="Test cases" finished-at="2022-06-29T16:28:21 IST" duration-ms="50154">
+      <class name="TestNG.sampleTestCase">
+        <test-method signature="firstTestcase()[pri:0, instance:TestNG.sampleTestCase@55536d9e]" started-at="2022-06-29T16:27:31 IST" name="firstTestcase" finished-at="2022-06-29T16:27:31 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestcase -->
+        <test-method signature="secondTestcase()[pri:1, instance:TestNG.sampleTestCase@55536d9e]" started-at="2022-06-29T16:27:31 IST" name="secondTestcase" finished-at="2022-06-29T16:27:31 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestcase -->
+        <test-method signature="thirdTestcase()[pri:2, instance:TestNG.sampleTestCase@55536d9e]" started-at="2022-06-29T16:27:31 IST" name="thirdTestcase" finished-at="2022-06-29T16:27:31 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTestcase -->
+        <test-method signature="fifthTestcase()[pri:4, instance:TestNG.sampleTestCase@55536d9e]" started-at="2022-06-29T16:27:31 IST" name="fifthTestcase" finished-at="2022-06-29T16:27:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifthTestcase -->
+        <test-method signature="sixthTestcase()[pri:5, instance:TestNG.sampleTestCase@55536d9e]" started-at="2022-06-29T16:27:31 IST" name="sixthTestcase" finished-at="2022-06-29T16:27:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sixthTestcase -->
+      </class> <!-- TestNG.sampleTestCase -->
+      <class name="TestNG.ParallelTesting">
+        <test-method signature="OpenEdge()[pri:0, instance:TestNG.ParallelTesting@5fa07e12]" started-at="2022-06-29T16:27:31 IST" name="OpenEdge" finished-at="2022-06-29T16:27:47 IST" duration-ms="15758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenEdge -->
+        <test-method signature="OpenFirefox()[pri:0, instance:TestNG.ParallelTesting@5fa07e12]" started-at="2022-06-29T16:27:47 IST" name="OpenFirefox" finished-at="2022-06-29T16:28:06 IST" duration-ms="18980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenFirefox -->
+        <test-method signature="OpenGoogle()[pri:0, instance:TestNG.ParallelTesting@5fa07e12]" started-at="2022-06-29T16:28:06 IST" name="OpenGoogle" finished-at="2022-06-29T16:28:21 IST" duration-ms="15257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenGoogle -->
+      </class> <!-- TestNG.ParallelTesting -->
+    </test> <!-- Test cases -->
+  </suite> <!-- Test Suite -->
+</testng-results>
